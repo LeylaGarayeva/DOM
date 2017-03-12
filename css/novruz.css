@@ -1,0 +1,17 @@
+body{
+	background-size: cover;
+	background-image: url(../img/novruz.jpg);
+}
+.main{
+	/* border: 5px dashed red; */
+	width: 50%;
+	margin-left: 20%;
+	text-align: center;
+	margin-top: 10%;
+}
+p{
+	padding: 20px;
+	color: red;
+	font-weight: bold;
+	font-size: 50px;
+}
